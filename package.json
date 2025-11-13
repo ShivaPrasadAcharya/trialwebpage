@@ -1,7 +1,7 @@
 {
   "name": "trialwebpage",
   "version": "1.0.0",
-  "homepage": "https://shivaprasadacharya.github.io/trialwebpage.git.io/",
+  "homepage": "https://shivaprasadacharya.github.io/trialwebpage/",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist",
